@@ -1,4 +1,3 @@
-# Individual-Task
 function getArray(name) 
     {
 		var size = document.app.n.value;
